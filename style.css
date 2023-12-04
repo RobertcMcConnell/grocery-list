@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+
+.separate {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+}
+div
+image {
+    border: 20px;
+    padding: 20px;
+    border: 5px;
+}
+div {
+    border: 5px solid ;
+    padding: 20px;
+    margin: 5px;
+    background-color: aqua;
+}
+article {
+    background-color: khaki;
+}
+
+
+
